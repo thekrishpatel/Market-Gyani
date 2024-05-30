@@ -56,7 +56,7 @@ API_KEY = 'YOUR_TELEGRAM_BOT_API_KEY'
 4. Run the bot:
 
 ```sh
-python bot.py
+python Main.py
 ```
 
 ## Usage
