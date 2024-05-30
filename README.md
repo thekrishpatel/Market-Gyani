@@ -38,7 +38,7 @@ Market Gyani is a Telegram bot that helps users stay informed about the stock ma
 
 ```sh
 git clone https://github.com/thekrishpatel/Market-Gyani
-cd market-gyani-bot
+cd Market-Gyani
 ```
 
 2. Install the required libraries:
