@@ -116,3 +116,7 @@ Feel free to submit issues and enhancement requests.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Reference
+
+For a detailed explanation of the bot's functionality and usage, please refer to the attached PowerPoint presentation (`Python_individual.pptx`).
