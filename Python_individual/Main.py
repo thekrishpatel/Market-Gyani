@@ -10,7 +10,7 @@ API_KEY = 'Your_API'
 
 
 bot = telebot.TeleBot(API_KEY)
-
+print('Bot has been started')
 
 @bot.message_handler(commands=['THANKS'])
 def thanks(message):
